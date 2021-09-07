@@ -3,5 +3,6 @@ $(function(){
         arrows: false,
         dots: true,
         slidesToShow: 3,
+        // infinite: false,
     });
 });
